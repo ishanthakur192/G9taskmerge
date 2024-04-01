@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello ishan
+=======
+this is initial file
+this line is added activity1
+>>>>>>> activity1
